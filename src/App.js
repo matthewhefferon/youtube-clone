@@ -17,7 +17,6 @@ function App() {
               <SearchPage />
             </div>
           </Route>
-
           <Route path="/">
             <div className="app__page">
               <Sidebar />
